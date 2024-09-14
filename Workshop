@@ -171,8 +171,67 @@ Input: The Current State of Services. how Services Performing
 Output: how to get improved service done here., Improved service is active here.
 
 ====================================================================================
+Day #11  Continual Improvement.
 
-=========================================================================================================================
+Continual Improvement: iterative model approach, do a gap analysis, by the customer.
+Benefit: This approach helps the organization meet organization vision, It should be followed by everyone
+CIR (Continual improvement Register): it is a database improvement highlighted. it is a repository for what continual improvement happens. Need to regularly assess for investment etc.
+It is the responsibility of the Continual improvement Manager, to make Continual Improvement implemented properly.
+===============================================================================================================
+Day #12 ITIL Practices.
+
+Practice: People who follow processes are called practices.
+
+ISMS Practices: it ensures this service gets delivered with proper information Security in place. include all service chain activity performed.
+
+Customer data or user data is controlled and secure with no lapses to perform risk management
+to find out what information is at risk.
+
+Create information Security Policies for customers, Users & Employees in your organization.
+you define information security policies for all these stack holders.
+You will define what access controls are there and provisioned. what all access control you put in place what all access control has been granted to stack holders.
+
+Information Security aims to protect the data (information).
+Three Critical information security factors are available that is confidentiality, integrity, and availability.
+Confidentiality: This means the right person has the right access at the right time.
+Integrity: This means that the trueness of your data is supposed to be not tempered.
+Availability: this means data is available when a customer wants it. 
+
+Based on the CIA Approach policies should differ as per stack holder.
+
+For example: What access your employee is entirely different, Which access does your vendor that's why CIA is different for different stack holders.
+
+The benefits of implementing this practice, you avoid information security incidents in your organization, you can perform audits in your organization, 
+and all configuration items. that is why this information is important.
+========================================================================================================================================================
+Day #13 Relationship Management Practice.
+
+To establish relationships with your stakeholders at the strategic level and tactical levels.
+You need relationship management, this practice bridges customer requirements and needs, customer priority has been identified, BR manager understands customer needs, 
+understands the customer wants service from me as the customer, what are the outcomes the customer looking for and already achieved.
+
+The Main objective of Business Relationship management is to understand customers' expectations. both customer priority and satisfaction are taken into consideration.
+
+Any complaints customers have are being looked into.
+
+There are three key relationships with business stakeholders.
+
+(1) Strategic: Long-term business relationship.
+(2) Tactical: Operational Relationship (Achievement of the output).
+
+There are different Roles involved in customer Relationship Management.
+
+Key Account Manager.
+Business Relationship Manager.
+Relationship Manager.
+
+Most of the time these people on the customer site and being onsite understand the customer requirements, and they understand all unsaid expectations.
+
+They understand requirements within the environment and accordingly, they convey the requirement to the service delivery manager, 
+who is responsible for delivering customer requirements. it very important to have this practice.
+=======================================================================================================================================
+
+
 
 
 
