@@ -1,0 +1,181 @@
+Day #2
+Service Consumer: 
+There are three roles in the service consumers' environment
+1 Customer, 2 User & 2 Sponsor
+
+* Customer: Define the requirement Like (CIO, CEO)
+* User: A user who using the service or consuming the service.
+* Sponsor: He is the person authorizing the budget of the service Like (CFO) the responsibility of the sponsor is cost saving.
+
+====================================================================================
+
+Service offering: it is an how are you providing service. how your packaging utility and warranty in service offering.
+			also, it is the need to design consumer service offerings.
+
+Attribute for Service offering: 
+1 Goods:  It is a tangible thing and customers are responsible for future Use.
+2 Access to Services:  It is a kind of license with terms and conditions.
+3 Service Actions: It is actions to address customer issues, Like Support, incidents & requests.
+
+===================================================================================================
+Day #4
+What are the four dimensions of service management and SVS (Service Value System)?
+Need to understand practices?
+
+The Four Dimensions are People, Process, Technology &  Value streams and processes.
+
+First Dimension: Organization and People: The objective to understand, what are the people skills required & organizational structure required, Organization Structured Required (Cross Functional Teams) What is the RESI Matrix it is a group of people-defined responsibilities. Key Takeaway: (How to form a structure to deliver the customer).
+
+Second Dimension:-Information Technology: There are two parts in this dimension information (Data) & Technology (Controlled, Secure, and Processing Data). whatever technology we need to deliver service that is the objective of information technology. 
+
+How is the information managed, and how is the information being protected?
+
+Two Types of Technology Exist:  1 Service-related Technology Example (Application Server & DB Server and 2 Service Management-Related Technology for example (Customer supporting Tools.) 
+
+Third Dimension: Partner & Supplier: (A partner is someone who work with customers and helps them to achieve their goals.) (however supplier is somebody who supplies only material) (A vendor is someone who gives solutions and supplies the material also.) For Partner and supplier both should have formal Contracts in place)
+
+Fourth Dimension: Value streams and processes: The objective for this dimension is to identify different processes and practices you need to deliver the services.
+
+Values Stream: It has steps or series of activities to convert input to output. example input can be customer requirements.
+Customer requirements can be of two types. 1 Customer can take new service requirements and 2 Second Requirement is an enhancement, change request, or add-ons on the existing service.
+
+Output: The service you are providing to the customer to fulfill the customer's requirement. That is called the Value stream (output). The series of activities that provide value is called a value stream.
+
+The first thing is to identify the requirements of the customer and Then find the best practices to achieve the outcome, these are the process to give values stream.
+
+ITIL four has PESTOL Model. 
+
+=====================================================================================
+Day #5 ITIL. Service Value System. (SVS)
+
+The SVS describes how all the processes and activities work together as a system to value co-creation. 
+
+When we try to provide value through customer service is called a value system.
+A system is a way to provide value through the service, A single cohesive system helps to customer to achieve a business goal.
+
+* Five components work together for a service value system.
+1 Guiding principle: As the name suggests that guiding factor, There are 7 guiding principles.
+2 Service value chain: It is related to the value stream.
+3 Governance: It ensures all the processes policies & principal applies are properly on all value stream activity. 
+4 Practices: These are different processes.
+5 Continual improvement:  As the name suggests continual improvement.
+
+There is an input to a service value system. it has two components (opportunity and Demand).
+
+7 Guiding principals: 1 Focus on value 2 Start where you are 3 Progress with feedback 4 Collaborate and promote visibility
+                       5 Think and work holistically 6 Keep it simple and practical 7 Optimize and Automate.
+
+LEIN: it is reducing waste, and removing non-value activity.
+DevOps: It is talk about CI/CD.
+Agile: It talks about incremental development.
+COBIT: it talks about IT Governance, IT policies, and IT Frameworks.
+===============================================================================================
+Day #7 (7 Guiding principal)
+
+1 Focus on value: This is the LEIN Principle (Think customer point of View) (Find Risk) you can measure value by SLA's.
+Objective: Make customers happy. you need to keep measuring customer experience, taking feedback, Surveys, etc. 
+
+VBF = (Vital business Functions) means the critical function within in customer environment.
+CSF = (Critical Success Factors) means that the customer highlighted an issue on you, and he wants to focus on the same.
+=======================================================================================================================
+2 Start where you are: This means re-utilising existing resources, like people processes & Infrastructure.
+
+"Configuration Item" is a component used to provide service to customers and you can manage that component.
+
+Measurement of Current "CI" Performance and Resources and Plan Accordingly.
+
+===============================================================================================================
+3 Progress iteratively with feedback:  The feedback helps to improve in a better way, it allows you to service in a better way. MVB & MMF
+Objective: Progress with feedback, make product, and Service becomes more valuable.
+====================================================================================================
+4 Collaborate and promote visibility: This is an Agile principle, we should take input regularly and encourage collaboration
+                                       between the right stakeholders. People should not work independently they should be 
+					in sync.
+
+============================================================================================================================
+5 Think and work holistically: Means-end-to-end approach, Keep bottleneck approach, keep the end in mind. it will help you find dependencies Risks etc.
+
+=========================================================================================================================
+6 Keep it simple and practical: With this LEIN Principle, Simplifying the practices, you have to remove waste, and start with minimum resources.
+
+==========================================================================================================================
+7 Optimize and Automate: Optimize and Automate the process to Simplify things, reduce effort, and fast delivery. 
+==================================================================================================================
+Day #3 Service Relationship: It means the corporation between two organizations the service provider and the service Consumer.
+The service relation is important because the single organization can be the service provider and service consumer at the same time.
+There are formal contracts and SLA,s are merging two organizations into service relations.
+
+Output: It means tangible and intangible deliverables of an activity are called output or End Result. (SLA Meets)
+Outcome: it means the result for stack holders that came from one or more outputs. (Improve Productivity)
+Benefits: it came from outcomes. (Improve Business)
+
+Disbenefit: If the outcome does not match the customer's requirements it leads to disbenefits.
+
+Reduction of Cost and Risk: 
+
+Cost: it means money spent on any activity and resource is called cost.
+
+Two Types of Cost are there: 1 Cost imposed on the consumer by service the service and 2 Cost removed from the consumer by the Service.
+
+Risk:  It means possible events that could harm loss and make it more difficult to achieve your objective.
+
+Service Provider: They have to reduce risk and cost from customers.
+
+Risk Can be potentially imposed on the customer by the service.
+Risk is also called an uncertain event.
+
+4 Things we can do the risks: 1 Avoid Risk, 2 Accept Risk, 3 Transfer Risk & Mitigate Risk.
+=======================================================================================================================
+Day #9 Governance & Service Value Chain.
+
+Governance means how to control, directing, and organizing.
+Three important activities cover governance: Evaluate, Direct & Monitor.
+Everybody should follow a set of policies and procedures as part of governance.
+
+1. Evaluate: You can evaluate customer requirements, You can evaluate organization objectives, You can evaluate previously delivered performance, and You can evaluate which guiding principles need to be adopted.
+
+2. Direct: As part of governance the direction is given to the service value chain (the Service Value chain is a set of activities) We can able to govern through a set of policies and procedures.
+
+3. Monitor: We need to measure the performance of these activities being carried out...
+
+
+Service Value Chain:  Under the Service value chain we run the value streams which are a set of activities that add value.
+
+The service value chain has multiple activities, Now which are the key activities.  1. Engage, 2. Plan 3. Design 4. Obtain & build 5 Deliver & support  6.Continual improvement. 
+
+1. Engage: Interact with the Customer, establish communication with the customer, and new requirements understood with the customer. Output is customer should be happy and enroll you for services. Output as a LOI (Letter of Intent) you can have contracts.
+
+2. Plan: It is nothing but a high-level overview of strategies and mission, what kind of investment will be needed, and what kind of resources to be needed to deliver services, which customer asking for services.
+
+Plan Inputs:  Customer Requirements, Customer Demands & as per demand we need to identify what kind of service need to offer to customers and plan according.
+
+Output: You should have a strategic plan, Service Portfolio, and Strategic plan, New Services to offer.
+
+3. Design & Transition: How do you build service, How do you deliver service & how do you support Service, how will you do monitoring?
+Input: Customer expectation, Service requirement, service improvement, continual service improvement, 
+
+Output: Blueprint of service, process design architecture, process design diagram, technical architecture diagram, process matrix, technology matrix, service matrix service design package need to be implemented here.
+
+
+4. Obtain & build: Procurement of new technology, As per the design building application here, building your service happening here,
+Inputs: Service design package, any plan, goods, and services.
+output: New Service that has been built here.
+
+5  Deliver & support: how will ensure support and warranty are met here
+Input: SLA Agreements, Service Knowledge Management System gets updated here, help delivery team, how will ensure utility and warranty met.
+Output: Utility and warranty met. 
+
+
+6. Continual improvement. How can we improve the services.
+Input: The Current State of Services. how Services Performing
+Output: how to get improved service done here., Improved service is active here.
+
+====================================================================================
+
+=========================================================================================================================
+
+
+
+
+
+
