@@ -230,7 +230,161 @@ Most of the time these people on the customer site and being onsite understand t
 They understand requirements within the environment and accordingly, they convey the requirement to the service delivery manager, 
 who is responsible for delivering customer requirements. it very important to have this practice.
 =======================================================================================================================================
+Day #14 Supplier Management Practice.
 
+Supplier is an external organization, with whom we need to work to provide customer services.
+The source material came from a supplier.
+
+Objective: To maintain a healthy relationship with all suppliers.
+
+You have strategies, 
+What is sourcing strategy,
+What needs to outsource, 
+What needs to insource, 
+How many suppliers do you need, 
+What type of supplier do you need, 
+How much work should be outsourced, 
+Who is the best supplier for you, and why? 
+how many categories of suppliers do you have, 
+
+Need to set and Define Policies.
+Categorized the supplier. 
+You should have a vendor database.
+Strategic Supplier.
+Tactical Supplier.
+Evaluate the Supplier.
+You should monitor supplier performance.
+Renewal of Contract with supplier.
+Supplier performance measurement we should check whether vendors are working as per contract agreement or not. Need to check SLAs and Parameters.
+
+Multiple types of supplier relationships also exist.
+
+In-Sourcing: The company's employees give support same company Users.
+Out Sourcing: Outside suppliers give support to your company employees.
+Co-Sourcing: Mix of external and internal Resources giving support.
+Multi-sourcing: Multiple Vendors working on big contracts for a single customer.
+Single/Partnerships sourcing: Two Companies merge and work on a particular project.
+
+Supplier Managers need to keep the Supplier Database with their contracts.
+===================================================================================
+Day #15 Availability Management Practice.
+
+Availability means up and running.
+
+Should meet the agreed availability of the customer
+how to measure the availability, there is a calculation to measure the availability. (Agreed Service Time (-) Minus Downtime (/) Divide by agreed service time x multiply by (100) Hundred.
+
+Agreed Service Time is always measured in percentage (%)
+
+Agreed Service Time : 
+Down Time: Planned Downtime, Unplanned Downtime.
+Planned downtime is a maintenance activity that is not considered in the availability equation.
+
+Need to identify the critical infrastructure and keep on monitoring these components to provide services on agreed documents.
+
+Availability Management Should work closely with Capacity and performance management.
+Identify the Vital Business Component and monitor accordingly.
+Availability management ensures the uptime of your services.
+There are different ways to achieve availability, Like Technical Aspects, By Implementing Cluster, Raid, and things like that.
+
+The availability report should be assessed, which you have provided to customers.
+==============================================================================================
+Day #16 Capacity & Performance Management Practice.
+
+Capacity and performance take care of Capacity and performance-related issues, that are happening service value chain.
+
+What is Customer Demand: Customers always have demands in terms of getting services.
+Sometimes demand pattern is high, that is called high volume demand.
+Sometimes demand is low.
+
+Capacity Assurance means whatever demand you have, it should be fulfilled by capacity and performance management.
+
+To understand and forecast the demands that you are providing, like how many resources you need, and how many supply and capacity are needed to deliver the service and meet to demand.
+
+Activities in capacity and performance management.
+
+Understand the capacity requirements for current and forecasted demands.
+We have to design the capacity.
+We have to make sure to design the capacity for to appropriate number of people, processes & Technology to meet the demand.
+We need to monitor capacity utilization as well.
+We need to define ongoing and forecasted demand and accordingly define the amount of supply, which is needed to satisfy the demand.
+The Solution Architect and technology should be designed in such a way to fulfill the demand.
+We need to Work on CMIS (Configuration management information systems) to meet the demand.
+===========================================================================================
+Day #17 Change Control Practice.
+
+This is based on controlling the changes and because increased number of successful changes.
+
+Change control only governs the changes by evaluating and monitoring changes.
+
+Make sure risks are identified and authorized to proceed and changes are successful.
+
+We need to validate that the change request has been placed.
+We need to make sure there is a valid change request, and accordingly provide approval and rejection.
+
+Also, Post-change needs to verify whether the benefits are working or not.
+
+What can be changed in change control practice: Any modifications are done in the configuration item. Like Addition, Deletion & Upgrade.
+
+Change Authority board helps to approve change.
+
+Three types of changes are pre-approved and authorized.
+
+1. Standard Changes. 
+2. Normal Changes.
+3. Emergency Changes.
+
+Standard Changes are low-cost and low-risk changes.
+
+Change Control evaluates two types of changes: Normal Changes and Emergency changes.
+
+Normal changes need to be scheduled, Asses, and authorized by the change control process. 
+CAB authorizes the changes and approves the changes.
+
+Emergency Change: Any change that needs to be implemented as soon as possible is called emergency change but it should be assessed then it should be implemented.
+in this case, approval and authorization should be fast, to implement changes.
+You need to call a meeting for emergency changes.
+
+===================================================================================
+Day #18 Incident Management Practice.
+
+The incident gives you awareness that something is wrong that needs to be addressed.
+
+Any occurrence hampered and decreed the service is called an incident.
+
+Objective for Incident Management Practice.
+The objective is to restore and resolve as soon as possible.
+
+Service Desk Owner will take care of two types of tickets.
+
+1. Incidents Ticket: These requests are fulfilled by the Service Desk Practitioner.
+2. Service Requests: These service request fulfillment teams will be followed.
+
+Several activities have to be performed in incident management.
+
+1. Log the Incident or case.
+2. Then you to categorize the incident.
+3. Then Prioritize the incident, There is a formula to prioritize the incidents. Impact X Urgency. Measure Incident should be mentioned as an open ticket.
+4. High Impact & High Severe incidents are called major tickets, Make sure to open problem tickets and that Major incident tickets are handled by the major incident team, not the service desk team.
+5. There are two types of escalations. 1 Functional Escalation 2. Hierarchical Escalation.
+
+A) Functional Escalation: Like escalating to L1, L2 & SME's
+B) Hierarchical Escalation: Like Escalating to Sr Manager, VP, & Directors, etc.
+
+6. The Service Desk Team Will be Accountable for escalated issues.
+
+7. Difference between Restoration & Resolution of the Issue.
+
+A) Restoration is a fix that you have provided to the customer.
+B) The resolution is fixed and makes the customer happy and satisfied.
+
+8. Closure for the incident: All incidents should be closed by the service desk team.
+
+Objective: The incident should be restored asap.
+
+9. We have to define resolution time in service-level agreements.
+10. Response time should be defined in the service level agreement.
+11. Expected resolution should be mentioned in the SLA.
 
 
 
